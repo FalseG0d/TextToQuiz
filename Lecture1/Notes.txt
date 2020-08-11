@@ -1,0 +1,20 @@
+Java
+->Platform Independent
+->Architecturally Neutral
+->OOPs
+->Secure
+
+Other Languages
+
+Source Code->Compiler->Machine Code
+
+Machine Code generated in one O/S can be used in a similar O/S because during compilation the compiler imports functionalities from the O/S. 
+Thus we need different compiler for different programing Languages. To remedy this Java was developed.
+
+Q1. Why not develop a Universal Compiler?
+Ans1. Machine Code generated in one O/S can be used in a similar O/S because during compilation the compiler imports functionalities from the O/S.
+
+Q2. Why Java?
+Ans2. S/W developers have to use programing languages according to the Client's System requirenment. Since java can run on any system, it was a 
+game changer.
+
