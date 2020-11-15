@@ -1,11 +1,7 @@
 1. What according to is the best programing language. [13]
 
-a. Python   b. Java     c. 23    d. JavaScript
+a). Python   b. Java     c. 23    d. JavaScript
 
 2.What according to is the best programing framework. [5]
-a. Django   b. Flask     c. Hibernate    d. Laravel
 
-Question and it's Options:[\d\w]*.*[a-zA-Z\d\s]*..[\[\{\(]\d+[\]\)\}]\s*^[aApPxX1].\s*\w*\s*[\s\w\.\+\-\*\\\/]*$
-
-Question: [\d\w]*.*[a-zA-Z\d\s]*..[\[\{\(]\d+[\]\)\}]
-Option: ^[aApPxX1].\s*\w*\s*[\s\w\.\+\-\*\\\/]*$
+a). Django   b. Flask     c. Hibernate    d. Laravel

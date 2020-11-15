@@ -1,4 +1,11 @@
-f = open("test.txt", "r")
-test_string=f.read()
+import re
+from .regex import Question_And_Options
 
-print(test_string)
+f = open("test.txt", "r")
+data=f.read()
+
+
+r = regex.findall(data,Question_And_Options)
+
+for i in r:
+    print(i)
