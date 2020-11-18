@@ -5,3 +5,7 @@ a). Python   b. Java     c. 23    d. JavaScript
 2.What according to is the best programing framework. [5]
 
 a). Django   b. Flask     c. Hibernate    d. Laravel
+
+3. What according to is the best programing language. [13]
+
+a). Django   b. Flask     c. Hibernate    d. Laravel
