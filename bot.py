@@ -5,8 +5,8 @@ import time
 driver = webdriver.Chrome()
 
 # Navigate to url
-driver.get("https://docs.google.com/forms/u/3/")
-
+#driver.get("https://docs.google.com/forms/u/3/")
+driver.get("https://forms.gle/PxHxoVDDsgvmftg98")
 # Store 'google search' button web element
 make_form_button = driver.find_element_by_id(":1g")
 
